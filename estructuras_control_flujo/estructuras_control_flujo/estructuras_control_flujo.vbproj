@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{51378B75-BE91-40DC-B43F-CAC8DA4E22BB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>estructuras_control_flujo.ejercicio2_4</StartupObject>
+    <StartupObject>estructuras_control_flujo.ejercicio2_6</StartupObject>
     <RootNamespace>estructuras_control_flujo</RootNamespace>
     <AssemblyName>estructuras_control_flujo</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -72,6 +72,8 @@
     <Compile Include="ejercicio2_2.vb" />
     <Compile Include="ejercicio2_3.vb" />
     <Compile Include="ejercicio2_4.vb" />
+    <Compile Include="ejercicio2_5.vb" />
+    <Compile Include="ejercicio2_6.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
