@@ -1,7 +1,7 @@
 ﻿Module ejercicio2_9
     Sub Main()
         Dim menu As Int16
-        Dim valor As Integer
+        Dim valor As Int16
         Dim converpies, converpulgadas, converyardas, convercentimetros, convermetros As Double
         Console.WriteLine("Seleccione que medida desea convertir: ")
         Console.WriteLine("1=Metros, 2=Centimetros, 3=Yardas, 4=Pies, 5=Pulgadas")
